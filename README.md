@@ -7,7 +7,9 @@
   <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=yellow=&color=yellow">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
     </p>
-<br>    
+<br>
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spew45&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spew45&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
