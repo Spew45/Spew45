@@ -10,9 +10,7 @@
 <br>
 </br>
 
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spew45&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spew45&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spew45&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Spew45&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
