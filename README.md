@@ -6,6 +6,7 @@
   <img alt="css" src="https://img.shields.io/badge/Learning-css-blue/?logo=css3&logoColor=blue&color=blue">
   <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=yellow=&color=yellow">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
+  <img alt="replit" src="https://img.shields.io/badge/Learning-replit-yellow/?logo=replit&logoColor=yellow=&color=yellow">
     </p>
 <br>
 </br>
