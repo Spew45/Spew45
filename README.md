@@ -2,9 +2,9 @@
 <hr>
 
 <p align="left">
-  <img alt="html" src="https://img.shields.io/badge/Learning-html-orange/?logo=html5&logoColor=e54c21=&color=e54c21">
+  <img alt="html" src="https://img.shields.io/badge/Learning-html-orange/?logo=html5&logoColor=orange=&color=orange">
   <img alt="css" src="https://img.shields.io/badge/Learning-css-blue/?logo=css3&logoColor=blue&color=blue">
-  <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=f7e018=&color=f7e018">
+  <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=yellow=&color=yellow">
     </p>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spew45&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
