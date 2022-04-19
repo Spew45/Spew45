@@ -3,7 +3,7 @@
 
 <p align="left">
   <img alt="html" src="https://img.shields.io/badge/Learning-html-orange/?logo=html5&logoColor=e54c21=&color=e54c21">
-  <img alt="css" src="https://img.shields.io/badge/Learning-css-blue/?logo=css3&logoColor=ffffff&color=ffffff">
+  <img alt="css" src="https://img.shields.io/badge/Learning-css-blue/?logo=css3&logoColor=blue&color=blue">
   <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=f7e018=&color=f7e018">
     </p>
     
