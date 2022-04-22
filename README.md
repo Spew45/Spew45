@@ -7,6 +7,7 @@
   <img alt="java" src="https://img.shields.io/badge/Learning-javascript-yellow/?logo=javascript&logoColor=yellow=&color=yellow">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="replit" src="https://img.shields.io/badge/Editor-replit-grey/?logo=replit&logoColor=55676e=&color=55676e">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
     </p>
 <br>
 </br>
